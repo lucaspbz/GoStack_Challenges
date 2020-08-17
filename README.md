@@ -14,3 +14,8 @@ Api desenvolvida com Express fazendo um CRUD básico de repositórios e com uma 
 
 Página web básica desenvolvida em react que conecta com o back-end do desafio-02 e exibe uma lista com o nome dos repositórios salvos lá no back-end.<br>
 Ela também cria novos repositórios com o titulo baseado na data atual e também pode excluir repositorios da api.
+
+## [Desafio 04](https://github.com/lucaspbz/GoStack_Challenges/tree/master/Challenge%2004):
+
+App mobile desenvolvido com React native. <br>
+Faz a conexão com o back end desenvolvido no desafio 01 buscando os repositorios salvos e mostra numa lista com um botão de like. Esse botao manda para o backend e o like é persistido e alterado em tela no respectivo repositorio.
