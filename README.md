@@ -4,4 +4,4 @@
 
 ## Desafio 0:
 Calendário de estudos
-[Link] (https://github.com/lucaspbz/GoStack_Challenges/tree/master/Challenge%2000)
+[Link](https://github.com/lucaspbz/GoStack_Challenges/tree/master/Challenge%2000)
