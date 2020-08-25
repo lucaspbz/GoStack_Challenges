@@ -24,3 +24,9 @@ Faz a conexão com o back end desenvolvido no desafio 01 buscando os repositorio
 
 Api desenvolvida com Node e TypeScript <br>
 API desenvolvida utilizando conceitos de SOLID. Nela é possível fazer a criação de transações contendo tipo limitado a "income" ou "outcome", valor e titulo, com validação de saldo no caso do "outcome". Também é possível acessar a lista de transactions juntamente com o balance.
+
+## [Desafio 06](https://github.com/lucaspbz/GoStack_Challenges/tree/master/Challenge%2006):
+
+Api desenvolvida com Node e TypeScript <br>
+Api desenvolvida para treinar o uso do TypeORM. Foi utilizado Docker e persistência de dados num banco PostgreSQL, e um crud baseado no desafio anterior.
+Utilizei também o Multer para receber arquivos via http e fazer a população do BD através de um arquivo .csv.
